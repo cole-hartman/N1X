@@ -1,7 +1,5 @@
 # N1X
 
-> My personal cloud
-
 <div
 <div>
   <img src="./assets/3.jpeg" width="350">
